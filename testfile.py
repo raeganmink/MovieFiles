@@ -1,7 +1,7 @@
 import csv
 import random
 
-file="movfile.csv"
+file="C:\\Users\\rmink\\Documents\\C#\\MovieFiles\\movfile.csv"
 
 with open(file,'r') as f: 
         reader = csv.reader(f)
