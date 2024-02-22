@@ -72,7 +72,7 @@
 72,n,amadeus,1984,amazon,english,140
 73,y,coco,2017,amazon,english,105
 74,y,toy story,1995,,,0
-75,n,braveheart,1995,hbo max,english,178
+75,y,braveheart,1995,hbo max,english,178
 76,y,joker,2019,,,0
 77,n,das boot,1981,amazon,german,149
 78,y,endgame,2019,,,0
@@ -104,9 +104,9 @@
 104,y,clockwork oramge,1971,,,0
 105,y,full metal jacket,1987,,,0
 106,y,scarface,1983,roku,english,170
-107,n,hamilton,2020,amazon,english,160
+107,y,hamilton,2020,amazon,english,160
 108,n,incendies,2010,amazon,english,131
-109,n,heat,1995,netflix,english,170
+109,y,heat,1995,netflix,english,170
 110,n,to kill a mockingbird,1962,amazon,english,129
 111,y,up,2009,,,0
 112,y,the sting,1973,,,0
