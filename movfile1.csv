@@ -1,0 +1,250 @@
+1,y,shawshank,1994,,,0
+2,y,godfather,1972,,,0
+3,y,dark knight,2008,,,0
+4,y,godfather 2,1974,,,0
+5,y,12 angry men,1957,tubi,english,96
+6,y,schindlers,1993,,,0
+7,y,return of the king,2003,hbo max,english,201
+8,y,pulp fiction,1994,,,0
+9,y,fellowship of the ring,2001,hbo max,english,178
+10,n,good bad ugly,1966,amazon,english,178
+11,y,forrest gump,1980,,,0
+12,y,fight club,2001,,,0
+13,y,two towers,2002,hbo max,english,179
+14,y,inception,2010,,,0
+15,n,star wars 5,1980,amazon,english,124
+16,y,matrix,1999,,,0
+17,y,goodfellas,1990,hbo max,english,145
+18,y,one flew over,1975,,,0
+19,y,se7en,1995,,,0
+20,n,seven samurai,1954,hbo max,japanese,207
+21,n,wonderful life,1946,prime,english,130
+22,y,silence of the lambs,1991,,,0
+23,y,saving private ryan,1998,,,0
+24,y,city of god,2002,,,0
+25,y,interstellar,2014,,,0
+26,n,life is beautiful,1997,amazon,english,116
+27,y,green mile,1999,,,0
+28,n,star wars 4,1977,amazon,english,121
+29,n,terminator 2,1991,amazon,english,137
+30,y,back to the future,1985,,,0
+31,n,spirited away,2001,hbo max,japanese,125
+32,y,pianist,2002,,,0
+33,y,pyscho,1960,,,0
+34,y,parasite,2019,,,0
+35,y,leon,1994,,,0
+36,y,lion king,1994,,,0
+37,y,gladiator,2000,,,0
+38,y,american history x,1998,,,0
+39,y,departed,2006,,,0
+40,y,prestige,2006,,,0
+41,y,whiplash,2014,,,0
+42,y,usual suspects,1995,,,0
+43,y,casablanca,1942,hbo max,english,102
+44,n,grave of the fireflies,1988,amazon,japanese,89
+45,n,harakiri,1962,amazon,japanese,133
+46,n,intouchables,2011,amazon,english,112
+47,y,modern times,1936,hbo max,english,87
+48,n,once upon a time in the west,1968,paramount,italian,165
+49,n,cinema paradiso,1988,paramount,italian,155
+50,n,rear window,1954,amazon,english,112
+51,y,alien,1979,amazon,english,117
+52,n,city lights,1931,hbo max,english,97
+53,y,apocalypse now,1979,amazon,english,147
+54,y,memento,2000,,,0
+55,y,django,2012,,,0
+56,y,raiders of the lost ark,1981,paramount,english,115
+57,y,wallE,2008,,,0
+58,n,lives of others,2006,amazon,german,137
+59,n,sunset blvd,1950,paramount,english,110
+60,y,paths of glory,1957,,,0
+61,y,shining,1980,,,0
+62,n,great dictator,1940,hbo max,english,125
+63,y,infinity war,2018,,,0
+64,y,witness for persecution,1957,tubi,english,0
+65,y,aliens,1986,amazon,english,137
+66,y,into the spiderverse,2018,,,0
+67,y,american beauty,1999,amazon,english,122
+68,y,dr strangelove,1964,amazon,english,95
+69,y,dark knight rises,2012,,,0
+70,y,oldboy,2003,amazon,korean,120
+71,y,inglorious basterds,2009,,,0
+72,n,amadeus,1984,amazon,english,140
+73,y,coco,2017,amazon,english,105
+74,y,toy story,1995,,,0
+75,y,braveheart,1995,hbo max,english,178
+76,y,joker,2019,,,0
+77,n,das boot,1981,amazon,german,149
+78,y,endgame,2019,,,0
+79,y,pricess mononoke,1997,hbo max,japanese,134
+80,n,once upon a time in america,1984,hulu,english,229
+81,y,good will hunting,1997,,,0
+82,n,your name,2016,amazon,japanese,106
+83,n,signing in the rain,1952,hbo max,english,103
+84,n,3 idiots,2009,amazon,hindi,170
+85,y,requiem for a dream,2000,,,0
+86,n,high and low,1963,hbo max,japanese,143
+87,y,toy story 3,2010,,,0
+88,n,capernaum,2018,amazon,arabic,126
+89,n,star wars 6,1983,amazon,english,0
+90,y,2001: space odyssey,1968,,,0
+91,y,eternal sunshine of spotless mind,2004,amazon,english,108
+92,n,come and see,1985,amazon,belarusian,144
+93,y,reservoir dogs,1992,,,0
+94,y,the hunt,2012,amazon,danish,115
+95,y,citizen kane,1941,amazon,english,119
+96,n,lawrence of arabia,1962,hbo max,english,218
+97,y,m,1931,hbo max,german,99
+98,y,north by northwest,1959,,,0
+99,n,ikiru,1952,hbo max,japanese,143
+100,n,vertigo,1958,amazon,english,128
+101,y,the apartment,1960,,,0
+102,n,amelie,2001,amazon,french,122
+103,n,double identity,1944,amazon,english,107
+104,y,clockwork oramge,1971,,,0
+105,y,full metal jacket,1987,,,0
+106,y,scarface,1983,roku,english,170
+107,y,hamilton,2020,amazon,english,160
+108,n,incendies,2010,amazon,english,131
+109,y,heat,1995,netflix,english,170
+110,n,to kill a mockingbird,1962,amazon,english,129
+111,y,up,2009,,,0
+112,y,the sting,1973,,,0
+113,n,a separation,2011,amazon,persian,123
+114,y,metropolis,1927,tubi,english,153
+115,y,taxi driver,1976,,,0
+116,y,la confidential,1997,hulu,english,138
+117,n,die hard,1988,amazon,english,132
+118,y,snatch,2000,,,0
+119,n,indiana jones last crusade,1989,paramount,english,127
+120,y,bicycle thieves,1948,,,0
+121,y,top gun mav,2022,,,0
+122,y,like stars on earth,2007,netflix,hindi,165
+123,y,1917,2019,,,0
+124,y,downfall,2004,tubi,german,156
+125,n,dangal,2016,amazon,hindi,161
+126,y,for a few dollars more,1965,amazon,italian,132
+127,y,batman begins,2005,,,0
+128,y,the kid,1921,hbo max,english,68
+129,y,some like it hot,1959,hbo max,english,0
+130,n,the father,2020,prime,english,97
+131,n,all about eve,1950,amazon,english,138
+132,y,wolf of wall st,2013,,,0
+133,y,green book,2018,prime,english,0
+134,y,judgement at nuremburg,1961,paramount,english,179
+135,n,ran,1985,amazon,japanese,162
+136,y,casino,1995,showtime,english,178
+137,y,truman show,1998,showtime,english,0
+138,y,there will be blood,2007,,,0
+139,n,pans labyrinth,2006,amazon,spanish,118
+140,n,unforgiven,1992,hbo max,english,130
+141,y,john wick 4,2023,amazon,english,169
+142,y,sixth sense,1999,,,0
+143,y,shutter island,2010,,,0
+144,y,beautiful mind,2001,,,0
+145,y,jurassic park,1993,,,0
+146,y,yojimbo,1961,hbo max,japanese,110
+147,n,treasure of sierra madre,1948,amazon,english,126
+148,n,monty python,1975,netflix,english,91
+149,y,no country for old men,2007,,,0
+150,n,great escape,1963,hbo max,english,172
+151,y,kill bill,2003,tubi,english,0
+152,y,rashomon,1950,hbo max,japanese,98
+153,n,the thing,1982,amazon,english,109
+154,y,spiderman no way home,2021,,,0
+155,y,finding nemo,2003,,,0
+156,y,elephant man,1980,amazon,english,124
+157,y,china town,1974,showtime,english,0
+158,n,raging bull,1980,hbo max,english,129
+159,y,v for vendetta,2005,amazon,english,132
+160,n,gone with the wind,1939,hbo max,english,238
+161,y,lock stock and 2 smoking barrels,1998,prime,english,0
+162,y,dial m for murder,1954,,,0
+163,y,inside out,2015,amazon,english,95
+164,y,secret in their eyes,2009,tubi,spanish,129
+165,n,howls moving castle,2004,hbo max,japanese,119
+166,y,3 billboards,2017,,,0
+167,y,transpotting,1996,amazon,english,93
+168,y,bridge on river kwai,1957,,,0
+169,y,prisoners,2013,,,0
+170,y,warrior,2011,,,0
+171,y,fargo,1996,showtime,english,0
+172,y,gran torino,2008,amazon,english,116
+173,n,my neighbor totoro,1988,hbo max,japanese,86
+174,y,catch me if you can,2002,,,0
+175,y,million dollar baby,2004,,,0
+176,n,children of heaven,1997,amazon,persian,89
+177,n,blade runner,1982,hbo max,english,117
+178,y,gold rush,1921,,,0
+179,n,klaus,2019,netflix,english,96
+180,y,harry potter deathly hallows 2,2011,hbo max,english,130
+181,n,before sunrise,1995,amazon,english,101
+182,y,12 years a slave,2013,,,0
+183,n,on the waterfront,1954,amazon,english,108
+184,n,ben hur,1959,amazon,english,212
+185,y,grand budapest hotel,2014,,,0
+186,y,gone girl,2014,,,0
+187,y,wild strawberries,1957,hbo max,sweedish,91
+188,n,the general,1926,paramount,english,67
+189,n,barry lyndon,1975,amazon,english,185
+190,n,in the name of the father,1993,amazon,english,133
+191,y,deer hunter,1978,amazon,english,183
+192,n,the third man,1949,amazon,english,93
+193,y,hacksaw ridge,2016,,,0
+194,y,wages of fear,1953,hbo max,french,131
+195,y,memories of murder,2003,amazon,korean,132
+196,y,sherlock jr,1924,tubi,english,0
+197,n,wild tales,2014,prime,spanish,122
+198,n,mr smith goes to washington,1939,amazon,english,129
+199,y,mad max fury road,2015,,,0
+200,n,mary and max,2009,tubi,english,92
+201,y,seventh seal,1957,hbo max,sweedish,0
+202,y,how to train your dragon,2010,netflix,english,98
+203,y,monsters inc,2001,,,0
+204,y,dead poets society,1989,paramount,english,0
+205,y,jaws,1975,,,0
+206,y,room,2015,,,0
+207,y,big lebowski,1998,prime,english,117
+208,y,tokyo story,1953,hbo max,japanese,136
+209,y,passion of joan arc,1928,hbo max,french,114
+210,y,ford v ferrari,2019,,,0
+211,y,hotel rwanda,2004,tubi,english,121
+212,y,rocky,1976,netflix,english,120
+213,y,platoon,1986,hbo max,english,120
+214,y,ratatouille,2007,,,0
+215,y,spotlight,2015,,,0
+216,y,logan,2017,,,0
+217,n,terminator,1984,hbo max,english,107
+218,y,stand by me,1986,amazon,english,99
+219,y,rush,2013,netflix,english,123
+220,y,network,1976,,,0
+221,n,before sunset,2004,amazon,english,80
+222,y,into the wild,2007,,,0
+223,y,wizard of oz,1939,,,0
+224,y,best years of our lives,1946,prime,english,170
+225,y,groundhog day,1993,,,0
+226,y,the exorcist,1973,hbo max,english,122
+227,y,the incredibles,2004,,,0
+228,n,la haine,1995,amazon,french,98
+229,n,to be or not to be,1942,hbo max,english,99
+230,n,pather panchali,1955,hbo max,bengali,125
+231,y,curse of the black pearl,2003,amazon,english,143
+232,n,grapes of wrath,1940,amazon,english,129
+233,n,hachi,2009,netflix,english,93
+234,y,battle of agliers,1966,hbo max,arabic,121
+235,n,jai bhim,2021,prime,tamil,164
+236,n,my father and my son,2005,amazon,turkish,112
+237,n,amores perros,2000,tubi,spanish,154
+238,n,rebecca,1940,amazon,english,130
+239,y,cool hand luke,1967,,,0
+240,y,handmaiden,2016,amazon,korean,145
+241,y,400 blows,1959,hbo max,french,99
+242,n,sound of music,1965,amazon,english,172
+243,n,happened one night,1934,amazon,english,105
+244,y,persona,1966,hbo max,sweedish,0
+245,n,life of brian,1979,netflix,english,94
+246,y,iron giant,1999,,,0
+247,y,the help,2011,tubi,english,146
+248,y,12th fail,2023,amazon,english,142
+249,y,aladdin,1992,,,0
+250,y,dances with wolves,1990,showtime,english,0

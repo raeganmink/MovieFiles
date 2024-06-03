@@ -1,7 +1,7 @@
 import csv
 import random
 
-file="movfile.csv"
+file="C:\\Users\\rmink\\Documents\\C#\\MovieFiles\\movfile.csv"
 
 with open(file,'r') as f: 
         reader = csv.reader(f)
@@ -17,9 +17,6 @@ with open(file,'r') as f:
         for key,value in list(newdict.items()):
             if 'y' in value:
                 del newdict[key]
-
-
-          
 
         PrefYesNo=input("Do you have any preferences? (Enter y for yes, n for no)")
 
