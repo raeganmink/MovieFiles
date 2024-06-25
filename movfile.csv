@@ -97,7 +97,7 @@
 97,y,m,1931,hbo max,german,99
 98,y,north by northwest,1959,,,0
 99,n,ikiru,1952,hbo max,japanese,143
-100,n,vertigo,1958,amazon,english,128
+100,y,vertigo,1958,amazon,english,128
 101,y,the apartment,1960,,,0
 102,y,amelie,2001,amazon,french,122
 103,n,double identity,1944,amazon,english,107
@@ -185,7 +185,7 @@
 185,y,grand budapest hotel,2014,,,0
 186,y,gone girl,2014,,,0
 187,y,wild strawberries,1957,hbo max,sweedish,91
-188,n,the general,1926,paramount,english,67
+188,y,the general,1926,paramount,english,67
 189,n,barry lyndon,1975,amazon,english,185
 190,n,in the name of the father,1993,amazon,english,133
 191,y,deer hunter,1978,amazon,english,183
@@ -226,8 +226,8 @@
 226,y,the exorcist,1973,hbo max,english,122
 227,y,the incredibles,2004,,,0
 228,n,la haine,1995,amazon,french,98
-229,n,to be or not to be,1942,hbo max,english,99
-230,n,pather panchali,1955,hbo max,bengali,125
+229,y,to be or not to be,1942,hbo max,english,99
+230,y,pather panchali,1955,hbo max,bengali,125
 231,y,curse of the black pearl,2003,amazon,english,143
 232,n,grapes of wrath,1940,amazon,english,129
 233,n,hachi,2009,netflix,english,93
@@ -235,7 +235,7 @@
 235,n,jai bhim,2021,prime,tamil,164
 236,n,my father and my son,2005,amazon,turkish,112
 237,n,amores perros,2000,tubi,spanish,154
-238,n,rebecca,1940,amazon,english,130
+238,y,rebecca,1940,amazon,english,130
 239,y,cool hand luke,1967,,,0
 240,y,handmaiden,2016,amazon,korean,145
 241,y,400 blows,1959,hbo max,french,99
